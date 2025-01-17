@@ -127,7 +127,7 @@ sentiment-analysis-movie-reviews/
 ├── models/                 # Saved models
 ├── results/                # Performance metrics and plots
 ├── requirements.txt        # List of dependencies
-├── README.md               # Project documentation
+└── README.md               # Project documentation
 ```
 
 ---
