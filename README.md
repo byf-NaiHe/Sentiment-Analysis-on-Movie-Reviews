@@ -116,12 +116,16 @@ Download the Rotten Tomatoes dataset from [Kaggle](https://www.kaggle.com/c/sent
 - **Evaluation**: Run `evaluate.py` to generate performance metrics.
 
 ### 5. Generate Predictions
-```
+
+```bash
 Use the trained models to generate predictions on the test.tsv set
+```
+
 ---
 
 ## Directory Structure
-```
+
+```plaintext
 sentiment-analysis-movie-reviews/
 ├── data/                   # Dataset files
 ├── models/                 # Saved models
@@ -133,6 +137,7 @@ sentiment-analysis-movie-reviews/
 ---
 
 ## Future Work
+
 - Experiment with other transformer-based models like RoBERTa or DistilBERT.
 - Incorporate additional features such as part-of-speech tags or sentiment lexicons.
 - Perform hyperparameter tuning for better model performance.
@@ -140,6 +145,7 @@ sentiment-analysis-movie-reviews/
 ---
 
 ## Acknowledgments
+
 - Kaggle for hosting the competition and providing the dataset.
 - The authors of the Rotten Tomatoes dataset and sentiment treebank.
 - The open-source community for providing libraries like PyTorch, TensorFlow, and Hugging Face Transformers.
@@ -147,7 +153,8 @@ sentiment-analysis-movie-reviews/
 ---
 
 ## Contact
-For questions or feedback, please open an issue or contact 2200012137@stu.pku.edu.cn.
+
+For questions or feedback, please open an issue or contact [2200012137@stu.pku.edu.cn](mailto:2200012137@stu.pku.edu.cn).
 
 ---
 
