@@ -104,7 +104,7 @@ sentiment-analysis-movie-reviews/
 - Kaggle for hosting the competition and providing the dataset.
 - The authors of the Rotten Tomatoes dataset and sentiment treebank.
 - The open-source community for providing libraries like PyTorch, TensorFlow, and Hugging Face Transformers.
-
+- I extend my gratitude to other team members for their contributions: Jiaqi Han, Yiyang Zhang, Jian Ding, Sirun Li, and Ziyu Geng. Their dedication and their delicate contributions were instrumental in the success of this project..
 ---
 
 Happy coding! 🎬🍿
