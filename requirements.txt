@@ -1,0 +1,13 @@
+numpy==2.0.0
+pandas==2.2.2
+matplotlib==3.8.0
+seaborn==0.13.2
+nltk==3.9.1
+spacy==3.8.2
+scikit-learn==1.4.2
+gensim==4.3.3
+tensorflow==2.15.0
+transformers==4.46.3
+xgboost==1.5.1
+optuna==4.1.0
+torch==2.5.1
