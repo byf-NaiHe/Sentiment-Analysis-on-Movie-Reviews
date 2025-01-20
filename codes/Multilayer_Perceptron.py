@@ -188,7 +188,7 @@ output_df = pd.DataFrame({
 })
 
 # Save predictions to CSV
-output_path = 'E:/shuju/answer/predictions.csv'
+output_path = './predictions.csv'
 os.makedirs(os.path.dirname(output_path), exist_ok=True)  # Create output directory if it doesn't exist
 output_df.to_csv(output_path, index=False)  # Save predictions
 

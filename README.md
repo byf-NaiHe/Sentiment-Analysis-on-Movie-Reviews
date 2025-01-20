@@ -52,6 +52,7 @@ Each phrase is labeled with one of the following sentiment classes:
 - **Text Cleaning**: Lowercasing, removing punctuation, and handling stopwords.
 - **Tokenization**: Splitting text into individual words or tokens.
 - **Word Embeddings**: Converting text into numerical representations using:
+  - **Bag fo Words**: a common tools to process text data.
   - **TF-IDF**: For traditional machine learning models.
   - **Word2Vec**: For deep learning models.
   - **BERT**: For state-of-the-art contextual embeddings.
