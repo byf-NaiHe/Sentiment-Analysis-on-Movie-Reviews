@@ -8,6 +8,7 @@
 
 - **train.tsv.zip**: Contains phrases and their associated sentiment labels.
 - **test.tsv.zip**: Contains only phrases; you must assign a sentiment label to each phrase.
+- **sampleSubmission.csv** : Provides a example submitted on Kaggle
 
 ### File Contents
 
@@ -43,11 +44,4 @@ The sentiment labels are defined as follows:
 3. **Model Training and Evaluation**:
    - Train your model using the training set and evaluate it using the test set.
 
-## License
-
-Please adhere to the terms and conditions of dataset usage.
-
-## Contact Information
-
-For any inquiries, please contact 2200012137@stu.pku.edu.cn.
 
